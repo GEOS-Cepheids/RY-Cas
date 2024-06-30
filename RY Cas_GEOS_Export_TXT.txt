@@ -1,0 +1,112 @@
+**********************************************************************************************************************
+*	RY CAS - CEPHEID - LIST OF TIMES OF MAXIMUM WITH O-C COMPUTED ON GCVS EPHEMERIS
+*	GCVS ELEMENTS : HJD MAX = 2447419.26 + 12.13856 x E
+*	Number of ToM = 87
+* 	(C) Guy BOISTEL - GEOS - Published in GEOS CIRCULAR ON CEPHEIDS CEP5 (2024)
+*	Link : https://github.com/GEOS-Cepheids
+*	Link arXiv for the study : 
+*	Contents:
+*	col1: Tom HJD +2400000
+*	col2: number of cycle computed on GCVS ephemeris
+*	col3: O-C computed on GCVS ephemeris
+*	col4-10: O-C for the sources AAVSO/ADS/BAV/GEOS:Hipparcos/KWS/Superwasp (see paper for explantations)
+*	col11: type of photometry when clearly known (pe=photoelectric; pg=photographic; un.=unknown; V=johnson V filter; vis=visual argelander estimate)
+*	col12: reference of the source and name of the observer when known
+*	col13: main source code (see paper for explanations)
+*	Update = 30 june 2024
+*
+*COL1     2      3      4        5       6       7       8       9       10              11       12             13
+*
+*JD Obs                O-C	O-C	O-C	O-C	O-C	O-C	O-C
+*+2400000  E	O-C   AAVSO	ADS	BAV	GEOS	Hip	KWS    SWASP		type	reference	source		
+*************************************************************************************************************************
+16638	-2536	2,05		2,05							pg	Szabados 1981	ADS		
+17561	-2460	2,40		2,40							un.	BAV Meyer 2023	BAV/Lit.		
+17633	-2454	2,11		2,11							vis	Szabados 1981	ADS		
+17682	-2450	1,91		1,91							un.	BAV Meyer 2023	BAV/Lit.		
+17694	-2449	2,46		2,46							vis	Szabados 1981	ADS		
+17840	-2437	1,91		1,91							un.	BAV Meyer 2023	BAV/Lit.		
+17840	-2437	2,11		2,11							vis	Szabados 1981	ADS		
+19672	-2286	1,83		1,83							vis	Szabados 1981	ADS		
+20036	-2256	1,63		1,63							un.	BAV Meyer 2023	BAV/Lit.		
+22452	-2057	1,38		1,38							vis	Szabados 1981	ADS		
+24041	-1926	1,07		1,07							pg	Szabados 1981	ADS		
+24066	-1924	1,23		1,23							un.	BAV Meyer 2023	BAV/Lit.		
+24235	-1910	0,84		0,84							un.	BAV Meyer 2023	BAV/Lit.		
+25486	-1807	1,09		1,09							vis	Szabados 1981	ADS		
+25486	-1807	1,12		1,12							un.	BAV Meyer 2023	BAV/Lit.		
+26057	-1760	1,31		1,31							un.	BAV Meyer 2023	BAV/Lit.		
+26166	-1751	1,04		1,04							V	IBVS 1329	ADS		
+26700	-1707	0,90		0,90							vis	Szabados 1981	ADS		
+26712	-1706	0,82		0,82							un.	BAV Meyer 2023	BAV/Lit.		
+27647	-1629	1,05		1,05							un.	BAV Meyer 2023	BAV/Lit.		
+29018	-1516	0,62		0,62							pg	Szabados 1981	ADS		
+30547	-1390	0,55		0,55							pg	Szabados 1981	ADS		
+31251	-1332	0,77		0,77							pg	Szabados 1981	ADS		
+31882	-1280	0,40		0,40							pg	Parenago 1956	ADS		
+31882	-1280	0,40		0,40							pg	BAV Meyer 2023	BAV/Lit.		
+32732	-1210	0,53		0,53							pg	Szabados 1981	ADS		
+33424	-1153	0,38		0,38							vis	Szabados 1981	ADS		
+33424	-1153	0,45		0,45							vis	Parenago 1956	ADS		
+33424	-1153	0,50		0,50							un.	BAV Meyer 2023	BAV/Lit.		
+33424	-1153	0,55		0,55							pe	IBVS 176	ADS		
+33472	-1149	0,38		0,38							pg	Szabados 1981	ADS		
+35439	-987	0,13		0,13							pg	Szabados 1981	ADS		
+35754	-961	0,35		0,35							un.	BAV Meyer 2023	BAV/Lit.		
+35876	-951	0,35		0,35							pg	Szabados 1981	ADS		
+35876	-951	0,47		0,47							un.	BAV Meyer 2023	BAV/Lit.		
+36798	-875	0,27		0,27							pe	Szabados 1981	ADS		
+36798	-875	0,27		0,27							un.	BAV Meyer 2023	BAV/Lit.		
+36810	-874	0,19		0,19							pe	Szabados 1981	ADS		
+36811	-874	0,71		0,71							pe	Oosterhoof 1960	ADS		
+36847	-871	0,22		0,22							pe	Oosterhoof 1960	ADS		
+36847	-871	0,32	0,32								V	AAVSO Mitchell this paper AAVSO		
+36859	-870	0,28		0,28							un.	BAV Meyer 2023	BAV/Lit.		
+36871	-869	0,16		0,16							pe	Szabados 1981	ADS		
+37016	-857	-0,04		-0,04							vis	Szabados 1981	ADS		
+37017	-857	-0,01		-0,01							un.	BAV Meyer 2023	BAV/Lit.		
+37939	-781	0,12		0,12							pe	Szabados 1981	ADS		
+39055	-689	-0,45		-0,45							vis	Szabados 1981	ADS		
+39444	-657	0,10		0,10							vis	Szabados 1981	ADS		
+42066	-441	-0,02		-0,02							vis	Szabados 1981	ADS		
+42127	-436	0,00	0,00								vis	AAVSO Small this paper	AAVSO		
+43438	-328	0,64		0,64							un.	Szabados 1981	ADS		
+43827	-296	0,34		0,34							pe	Szabados 1981	ADS		
+43839	-295	0,33			0,33						un.	BAV Meyer 2023	BAV/Lit.		
+44191	-266	0,25	0,25								vis	AAVSO Goodwin this paper AAVSO		
+44251	-261	0,17		0,17							un.	Szabados 1981	ADS		
+45671	-144	-0,15			-0,15						un.	BAV Meyer 2023	BAV/Lit.		
+46205	-100	-0,24	-0,24								vis	AAVSO Goodwin this paper AAVSO		
+47419	0	0,00		0,00							V	Berdnikov 1992	ADS		
+47431	1	-0,10		-0,10							V	Berdnikov 1992	ADS		
+48014	49	0,12					0,12				V	Hipparcos this paper Hip		
+48366	78	0,03			0,03						un.	BAV Meyer 2023	BAV/Lit.		
+49933	207	0,76			0,76						un.	BAV Meyer 2023	BAV/Lit.		
+52857	448	-0,43			-0,43						un.	BAV Meyer 2023	BAV/Lit.		
+52857	448	-0,41			-0,41						vis	BAV dataB	BAV/Lit.		
+52858	448	0,27			0,27						un.	BAV Meyer 2023	BAV/Lit.		
+53659	514	0,49			0,49						vis	OEJV 51		AV/Lit.		
+53659	514	0,52			0,52						un.	BAV Meyer 2023	BAV/Lit.		
+54375	573	-0,02							-0,02		V	SWASP this paper SWASP		
+54399	575	0,53							 0,53		V	SWASP this paper SWASP		
+54424	577	0,37	0,37								V	AAVSO Cook this paper AAVSO		
+56159	720	0,16						0,16			V 	KWS this paper KWS		
+57240	809	0,63						0,63			V	ASAS-SN this paper ASAS-SN		
+57252	810	0,40						0,40			V	ASAS-SN this paper ASAS-SN		
+57325	816	0,52						0,52			V	ASAS-SN this paper ASAS-SN		
+57689	846	0,41						0,41			V	ASAS-SN this paper ASAS-SN		
+58818	939	0,53						0,53			V	KWS this paper	KWS		
+59158	967	0,71						0,71			V	KWS this paper	KWS		
+59412	988	0,27				0,27					vis	GEOS Boistel	GEOS		
+59485	994	0,32				0,32					vis	GEOS Boistel	GEOS		
+59582	1002	-0,24				-0,24					vis	GEOS Boistel	GEOS		
+59680	1010	0,44				0,44					vis	GEOS Boistel	GEOS		
+59776	1018	0,12				0,12					vis	GEOS Boistel	GEOS		
+*****
+***** following ToM with quadratic residuals > 3x(Stand. dév.)
+*****
+17354	-2477										un.	BAV Meyer 2023	BAV/Lit.		
+17354	-2477										un.	BAV Meyer 2023	BAV/Lit.		
+17537	-2462										vis	Szabados 1981	ADS		
+17537	-2462										un.	BAV Meyer 2023	BAV/Lit.		
+17659	-2452										un.	BAV Meyer 2023	BAV/Lit.		
